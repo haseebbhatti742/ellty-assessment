@@ -13,6 +13,17 @@
   box-shadow: 5px 7px 72px -24px rgba(112, 102, 112, 1);
 }
 
+.checkbox-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.checkbox-input {
+  width: 20px;
+  height: 20px; 
+}
+
 .button {
   width: 100%;
   background-color: #FFCE22;
