@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: "Roboto", sans-serif;
+}
+
+.box {
+  padding: 10px;
+  width: 400px;
+  border-radius: 10px;
+  box-shadow: 5px 7px 72px -24px rgba(112, 102, 112, 1);
+}
+
+.button {
+  width: 100%;
+  background-color: #FFCE22;
+  border: none;
+  padding: 12px;
+  font-size: 14px;
+  font-weight: 600;
+  border-radius: 5px;
+  margin: 10px 0px 10px 0px;
+}
